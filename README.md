@@ -1,12 +1,10 @@
 ## RxBucket
-**项目说明：Rx全家桶，常用的Rx系列。**
-
-#### 持续更新。。。
+**项目说明：Rx全家桶，常用的Rx系列实际使用案例需求。（持续更新。。。）**
 
 
-## 常用的Rx系列
+## 常用的Rx系列集合
 |No.|Name|Version|Remark|
-|:-:|:--:|:-----:|:----:|
+:-:|:--:|:-----:|:----:
 1|[**RxJava**](https://github.com/ReactiveX/RxJava)|<a href='http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.reactivex.rxjava2%22%20a%3A%22rxjava%22'><img src='http://img.shields.io/maven-central/v/io.reactivex.rxjava2/rxjava.svg'></a>|
 2|[**RxAndroid**](https://github.com/ReactiveX/RxAndroid)|<a href='http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.reactivex.rxjava2%22%20a%3A%22rxandroid%22'><img src='http://img.shields.io/maven-central/v/io.reactivex.rxjava2/rxandroid.svg'></a>|
 3|[**RxBinding**](https://github.com/JakeWharton/RxBinding)|v2.0.0|
